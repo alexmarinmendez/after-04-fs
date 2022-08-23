@@ -1,0 +1,18 @@
+[
+  {
+    "first_name": "Alex",
+    "last_name": "Marin",
+    "username": "alexmarinmendez",
+    "age": 35,
+    "mail": "profeAlex@coderhouse.com",
+    "id": 1
+  },
+  {
+    "first_name": "Jorge",
+    "last_name": "Valle",
+    "username": "jorgito",
+    "age": 15,
+    "mail": "jorgito@coderhouse.com",
+    "id": 3
+  }
+]
